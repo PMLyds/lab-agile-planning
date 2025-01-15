@@ -7,17 +7,17 @@ assignees: PMLyds
 
 ---
 
-**As a** [role]  
- **I need** [function]  
- **So that** [benefit]  
+**As a** [jewelry user]  
+ **I need** [to get good quality jewelry]  
+ **So that** [they would last long and stay in trend for a long while]  
    
  ### Details and Assumptions
- * [document what you know]
+ * [We must produce jewelry with good lasting qualty]
    
  ### Acceptance Criteria  
    
  ```gherkin
- Given [some context]
- When [certain action is taken]
- Then [the outcome of action is observed]
+ Given [that we have buying customers in need of good quality jewelry]
+ When [they place an order from us]
+ Then [the jewelry they receive must be in good condition and worth the amount]
  ```
