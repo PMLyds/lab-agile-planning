@@ -1,9 +1,9 @@
 ---
 name: User story
-about: Describe this issue template's purpose here.
+about: This template is for creating user stories
 title: ''
 labels: ''
-assignees: ''
+assignees: PMLyds
 
 ---
 
